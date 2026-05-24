@@ -1,0 +1,32 @@
+# Python / ML
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+venv/
+env/
+.venv/
+
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node (if future use)
+node_modules/
+
+# Build folders
+dist/
+build/
+
+# Sass cache
+.sass-cache/
+
+# IDE files
+.vscode/
+.idea/
